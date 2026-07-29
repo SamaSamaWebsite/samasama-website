@@ -1,0 +1,120 @@
+[
+ {
+  "id": "bangkok",
+  "flav": "Street food, noodle shops, som tam stalls and Michelin-level dining."
+ },
+ {
+  "id": "phuket",
+  "flav": "Night-market noodles, southern curries and fresh-off-the-boat seafood."
+ },
+ {
+  "id": "samui",
+  "name": "Koh Samui",
+  "flav": "Beach barbecues, khao soi and the island's café scene."
+ },
+ {
+  "id": "pattaya",
+  "flav": "Seafood markets, street grills and the best-value Thai kitchens."
+ },
+ {
+  "id": "penang",
+  "flav": "Hawker legends of George Town — char kway teow, laksa and kopi."
+ },
+ {
+  "id": "kl",
+  "name": "Kuala Lumpur",
+  "flav": "Hawker courts, banana-leaf lunches and rooftop dining."
+ },
+ {
+  "id": "hanoi",
+  "flav": "Phở at dawn, bún chả, egg coffee and Old Quarter street stalls."
+ },
+ {
+  "id": "danang",
+  "flav": "Mì quảng, fresh seafood and the beach-café scene."
+ },
+ {
+  "id": "saigon",
+  "flav": "Street phở, bánh mì counters and rooftop dining."
+ },
+ {
+  "id": "sanur",
+  "flav": "Warung classics, beachfront seafood and the smoothie-bowl scene."
+ },
+ {
+  "id": "giliair",
+  "flav": "Beach barbecues, warung nasi campur and island cafés."
+ },
+ {
+  "id": "ubud",
+  "flav": "Warungs, babi guling, healthy cafés and jungle fine dining."
+ },
+ {
+  "id": "boracay",
+  "flav": "Carinderia plates, D'Talipapa seafood and beachfront grills."
+ },
+ {
+  "id": "cebu",
+  "flav": "Lechon — the world's best roast pig — plus sutukil seafood."
+ },
+ {
+  "id": "bohol",
+  "flav": "Fresh seafood, carinderia comfort food and river-cruise lunches."
+ },
+ {
+  "id": "sevilla",
+  "name": "Seville",
+  "flav": "Tapas crawls, abacería counters and Triana's market bars."
+ },
+ {
+  "id": "madrid",
+  "flav": "Menú del día, tapas, bocadillos de calamares and market halls."
+ },
+ {
+  "id": "fuengirola",
+  "flav": "Chiringuito espetos, tapas bars and the seafront paseo."
+ },
+ {
+  "id": "malaga",
+  "name": "Málaga",
+  "flav": "Espetos on the beach, tapas institutions and sweet Málaga wine."
+ },
+ {
+  "id": "miami",
+  "name": "Miami Beach",
+  "flav": "Cuban ventanitas, stone crab, ceviche and Ocean Drive dining."
+ },
+ {
+  "id": "fortlauderdale",
+  "flav": "Dockside fish houses, conch fritters and happy-hour raw bars."
+ },
+ {
+  "id": "barcelona",
+  "flav": "Pintxos, bombas, market counters and seafront paella."
+ },
+ {
+  "id": "mallorca",
+  "flav": "Ensaïmadas, market lunches and seaside fine dining."
+ },
+ {
+  "id": "grancanaria",
+  "name": "Las Palmas",
+  "flav": "Papas arrugadas, fresh fish and Vegueta's tapas lanes."
+ },
+ {
+  "id": "tenerife",
+  "flav": "Guachinches, papas con mojo and fresh Atlantic fish."
+ },
+ {
+  "id": "alicante",
+  "flav": "Arroces, tapas on the Explanada and market-hall counters."
+ },
+ {
+  "id": "valencia",
+  "flav": "The home of paella — plus horchata, tapas and market feasts."
+ },
+ {
+  "id": "mauritius",
+  "flav": "Dholl puri off the cart, street boulettes, rougaille and rum."
+ }
+]

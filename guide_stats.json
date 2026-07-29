@@ -1,0 +1,198 @@
+{
+ "bangkok": {
+  "links": 248,
+  "maps": 113,
+  "photos": 61,
+  "prices": 277,
+  "pages": 38
+ },
+ "phuket": {
+  "links": 230,
+  "maps": 111,
+  "photos": 61,
+  "prices": 255,
+  "pages": 38
+ },
+ "samui": {
+  "links": 232,
+  "maps": 109,
+  "photos": 66,
+  "prices": 257,
+  "pages": 39
+ },
+ "pattaya": {
+  "links": 242,
+  "maps": 112,
+  "photos": 61,
+  "prices": 276,
+  "pages": 38
+ },
+ "penang": {
+  "links": 238,
+  "maps": 107,
+  "photos": 61,
+  "prices": 231,
+  "pages": 38
+ },
+ "kl": {
+  "links": 244,
+  "maps": 115,
+  "photos": 61,
+  "prices": 244,
+  "pages": 38
+ },
+ "hanoi": {
+  "links": 250,
+  "maps": 116,
+  "photos": 61,
+  "prices": 251,
+  "pages": 38
+ },
+ "danang": {
+  "links": 239,
+  "maps": 111,
+  "photos": 61,
+  "prices": 243,
+  "pages": 38
+ },
+ "saigon": {
+  "links": 247,
+  "maps": 115,
+  "photos": 61,
+  "prices": 260,
+  "pages": 38
+ },
+ "sanur": {
+  "links": 242,
+  "maps": 113,
+  "photos": 61,
+  "prices": 267,
+  "pages": 38
+ },
+ "giliair": {
+  "links": 242,
+  "maps": 109,
+  "photos": 61,
+  "prices": 253,
+  "pages": 38
+ },
+ "ubud": {
+  "links": 246,
+  "maps": 111,
+  "photos": 61,
+  "prices": 263,
+  "pages": 38
+ },
+ "boracay": {
+  "links": 238,
+  "maps": 109,
+  "photos": 61,
+  "prices": 246,
+  "pages": 38
+ },
+ "cebu": {
+  "links": 245,
+  "maps": 108,
+  "photos": 61,
+  "prices": 244,
+  "pages": 38
+ },
+ "bohol": {
+  "links": 242,
+  "maps": 107,
+  "photos": 61,
+  "prices": 247,
+  "pages": 38
+ },
+ "sevilla": {
+  "links": 259,
+  "maps": 112,
+  "photos": 34,
+  "prices": 229,
+  "pages": 38
+ },
+ "madrid": {
+  "links": 262,
+  "maps": 115,
+  "photos": 68,
+  "prices": 233,
+  "pages": 38
+ },
+ "fuengirola": {
+  "links": 228,
+  "maps": 107,
+  "photos": 65,
+  "prices": 226,
+  "pages": 38
+ },
+ "malaga": {
+  "links": 233,
+  "maps": 92,
+  "photos": 61,
+  "prices": 211,
+  "pages": 37
+ },
+ "miami": {
+  "links": 235,
+  "maps": 116,
+  "photos": 61,
+  "prices": 244,
+  "pages": 38
+ },
+ "fortlauderdale": {
+  "links": 239,
+  "maps": 114,
+  "photos": 61,
+  "prices": 246,
+  "pages": 38
+ },
+ "barcelona": {
+  "links": 210,
+  "maps": 82,
+  "photos": 63,
+  "prices": 230,
+  "pages": 38
+ },
+ "mallorca": {
+  "links": 234,
+  "maps": 110,
+  "photos": 64,
+  "prices": 200,
+  "pages": 38
+ },
+ "grancanaria": {
+  "links": 230,
+  "maps": 100,
+  "photos": 65,
+  "prices": 218,
+  "pages": 38
+ },
+ "tenerife": {
+  "links": 200,
+  "maps": 75,
+  "photos": 61,
+  "prices": 201,
+  "pages": 37
+ },
+ "alicante": {
+  "links": 246,
+  "maps": 118,
+  "photos": 65,
+  "prices": 217,
+  "pages": 38
+ },
+ "valencia": {
+  "links": 224,
+  "maps": 93,
+  "photos": 64,
+  "prices": 229,
+  "pages": 38
+ },
+ "mauritius": {
+  "links": 229,
+  "maps": 113,
+  "photos": 50,
+  "prices": 239,
+  "pages": 38
+ }
+}

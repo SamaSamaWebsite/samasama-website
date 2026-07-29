@@ -1,0 +1,47 @@
+{
+ "brand": {
+  "name": "Sama Sama",
+  "legal": "Sama Sama Guides",
+  "tagline": "Know it. Pick it. Go.",
+  "copyright_year": "2026",
+  "research_year": "2026"
+ },
+ "contact": {
+  "email": "sama.sama.trave@protonmail.com"
+ },
+ "buy": {
+  "live": false,
+  "tooltip": "Shop links coming soon — guides launch on Etsy, Ko-fi & Gumroad"
+ },
+ "stats": {
+  "facts_tracked": "115,734"
+ },
+ "shops": [
+  {
+   "name": "Payhip",
+   "url": "https://payhip.com",
+   "blurb": "Our home shop — simple, secure checkout for digital downloads with instant delivery. The first place our premium guides go live."
+  },
+  {
+   "name": "Etsy",
+   "url": "https://www.etsy.com",
+   "blurb": "A global marketplace where travelers search for digital city guides and itineraries. Sama Sama premium guides will be listed here for easy discovery and reviews."
+  },
+  {
+   "name": "Ko-fi",
+   "url": "https://ko-fi.com",
+   "blurb": "A creator-friendly platform with 0% fees and options for bundles and memberships. Buy guides, bundles, or become a monthly supporter."
+  },
+  {
+   "name": "Gumroad",
+   "url": "https://gumroad.com",
+   "blurb": "A simple, global platform for selling digital products and bundles. Our full premium-guide collections and mega bundles will live here."
+  }
+ ],
+ "support_shop": "Ko-fi",
+ "images": {
+  "inline_previews": false,
+  "_inline_previews_note": "true = previews base64-embedded, site stays ONE file (+524 KB). false = previews load from img/prev/ as AVIF+WebP, page is 524 KB lighter and only the preview you actually look at downloads. Works fine opened locally either way.",
+  "prev_dir": "img/prev"
+ }
+}
