@@ -1,0 +1,205 @@
+# ---------------------------------------------------------------
+# Sama Sama - samasamaguides.com
+#
+# Same rules as _redirects, but in a file whose name does NOT start
+# with an underscore - so it can never be hidden or left out of a
+# drag-and-drop deploy. Netlify reads this first.
+#
+# Order matters: the /* catch-all MUST stay last.
+# 302 = temporary (re-pointable). Never 301 here.
+# ---------------------------------------------------------------
+
+[[redirects]]
+  from = "/kofi"
+  to = "https://ko-fi.com/samasamaguides"
+  status = 302
+
+[[redirects]]
+  from = "/ko-fi"
+  to = "https://ko-fi.com/samasamaguides"
+  status = 302
+
+[[redirects]]
+  from = "/shop"
+  to = "/#/where-to-buy"
+  status = 302
+
+[[redirects]]
+  from = "/buy"
+  to = "/#/where-to-buy"
+  status = 302
+
+[[redirects]]
+  from = "/g/alicante"
+  to = "/#/city/alicante"
+  status = 302
+
+[[redirects]]
+  from = "/g/bangkok"
+  to = "/#/city/bangkok"
+  status = 302
+
+[[redirects]]
+  from = "/g/barcelona"
+  to = "/#/city/barcelona"
+  status = 302
+
+[[redirects]]
+  from = "/g/bohol"
+  to = "/#/city/bohol"
+  status = 302
+
+[[redirects]]
+  from = "/g/boracay"
+  to = "/#/city/boracay"
+  status = 302
+
+[[redirects]]
+  from = "/g/cebu"
+  to = "/#/city/cebu"
+  status = 302
+
+[[redirects]]
+  from = "/g/da-nang"
+  to = "/#/city/danang"
+  status = 302
+
+[[redirects]]
+  from = "/g/fort-lauderdale"
+  to = "/#/city/fortlauderdale"
+  status = 302
+
+[[redirects]]
+  from = "/g/fuengirola"
+  to = "/#/city/fuengirola"
+  status = 302
+
+[[redirects]]
+  from = "/g/gili-air"
+  to = "/#/city/giliair"
+  status = 302
+
+[[redirects]]
+  from = "/g/hanoi"
+  to = "/#/city/hanoi"
+  status = 302
+
+[[redirects]]
+  from = "/g/koh-samui"
+  to = "/#/city/samui"
+  status = 302
+
+[[redirects]]
+  from = "/g/kuala-lumpur"
+  to = "/#/city/kl"
+  status = 302
+
+[[redirects]]
+  from = "/g/las-palmas"
+  to = "/#/city/grancanaria"
+  status = 302
+
+[[redirects]]
+  from = "/g/madrid"
+  to = "/#/city/madrid"
+  status = 302
+
+[[redirects]]
+  from = "/g/malaga"
+  to = "/#/city/malaga"
+  status = 302
+
+[[redirects]]
+  from = "/g/mallorca"
+  to = "/#/city/mallorca"
+  status = 302
+
+[[redirects]]
+  from = "/g/mauritius"
+  to = "/#/city/mauritius"
+  status = 302
+
+[[redirects]]
+  from = "/g/miami-beach"
+  to = "/#/city/miami"
+  status = 302
+
+[[redirects]]
+  from = "/g/pattaya"
+  to = "/#/city/pattaya"
+  status = 302
+
+[[redirects]]
+  from = "/g/penang"
+  to = "/#/city/penang"
+  status = 302
+
+[[redirects]]
+  from = "/g/phuket"
+  to = "/#/city/phuket"
+  status = 302
+
+[[redirects]]
+  from = "/g/saigon"
+  to = "/#/city/saigon"
+  status = 302
+
+[[redirects]]
+  from = "/g/sanur"
+  to = "/#/city/sanur"
+  status = 302
+
+[[redirects]]
+  from = "/g/seville"
+  to = "/#/city/sevilla"
+  status = 302
+
+[[redirects]]
+  from = "/g/tenerife"
+  to = "/#/city/tenerife"
+  status = 302
+
+[[redirects]]
+  from = "/g/ubud"
+  to = "/#/city/ubud"
+  status = 302
+
+[[redirects]]
+  from = "/g/valencia"
+  to = "/#/city/valencia"
+  status = 302
+
+[[redirects]]
+  from = "/g/*"
+  to = "/#/guides"
+  status = 302
+
+[[redirects]]
+  from = "/destinations"
+  to = "/#/destinations"
+  status = 302
+
+[[redirects]]
+  from = "/guides"
+  to = "/#/guides"
+  status = 302
+
+[[redirects]]
+  from = "/where-to-buy"
+  to = "/#/where-to-buy"
+  status = 302
+
+[[redirects]]
+  from = "/about"
+  to = "/#/about"
+  status = 302
+
+[[redirects]]
+  from = "/contact"
+  to = "/#/contact"
+  status = 302
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

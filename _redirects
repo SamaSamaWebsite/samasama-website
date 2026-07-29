@@ -1,0 +1,64 @@
+# ---------------------------------------------------------------
+# Sama Sama - samasamaguides.com  |  Netlify redirect table
+#
+# The 28 PDF guides link ONLY to samasamaguides.com/g/<city>.
+# Those links are printed into sold PDFs and can never be changed,
+# so this file is where the real destination lives. Change a line
+# here, redeploy, and every guide ever sold points somewhere new.
+#
+# Rules are matched TOP TO BOTTOM. The /* catch-all MUST stay last.
+# 302 = temporary. Never use 301 here - browsers cache 301s
+# forever and you lose the ability to re-point.
+# ---------------------------------------------------------------
+
+# --- Shop / support links -------------------------------------
+/kofi          https://ko-fi.com/samasamaguides   302
+/ko-fi         https://ko-fi.com/samasamaguides   302
+/shop          /#/where-to-buy                    302
+/buy           /#/where-to-buy                    302
+
+# --- The 28 guide links printed inside the PDFs ---------------
+# TO SEND A CITY STRAIGHT TO ITS PAYHIP PRODUCT LATER, replace
+# the right-hand side, e.g.:
+#   /g/bangkok   https://shop.samasamaguides.com/b/xxxxx   302
+/g/alicante         /#/city/alicante         302
+/g/bangkok          /#/city/bangkok          302
+/g/barcelona        /#/city/barcelona        302
+/g/bohol            /#/city/bohol            302
+/g/boracay          /#/city/boracay          302
+/g/cebu             /#/city/cebu             302
+/g/da-nang          /#/city/danang           302
+/g/fort-lauderdale  /#/city/fortlauderdale   302
+/g/fuengirola       /#/city/fuengirola       302
+/g/gili-air         /#/city/giliair          302
+/g/hanoi            /#/city/hanoi            302
+/g/koh-samui        /#/city/samui            302
+/g/kuala-lumpur     /#/city/kl               302
+/g/las-palmas       /#/city/grancanaria      302
+/g/madrid           /#/city/madrid           302
+/g/malaga           /#/city/malaga           302
+/g/mallorca         /#/city/mallorca         302
+/g/mauritius        /#/city/mauritius        302
+/g/miami-beach      /#/city/miami            302
+/g/pattaya          /#/city/pattaya          302
+/g/penang           /#/city/penang           302
+/g/phuket           /#/city/phuket           302
+/g/saigon           /#/city/saigon           302
+/g/sanur            /#/city/sanur            302
+/g/seville          /#/city/sevilla          302
+/g/tenerife         /#/city/tenerife         302
+/g/ubud             /#/city/ubud             302
+/g/valencia         /#/city/valencia         302
+
+# Any /g/ city that is not listed above -> the guides index
+/g/*           /#/guides                          302
+
+# --- Pretty URLs for the site's own pages ---------------------
+/destinations  /#/destinations                    302
+/guides        /#/guides                          302
+/where-to-buy  /#/where-to-buy                    302
+/about         /#/about                           302
+/contact       /#/contact                         302
+
+# --- SPA catch-all. MUST BE THE LAST LINE. --------------------
+/*             /index.html                        200
